@@ -28,9 +28,10 @@ The second part of this project analyzes the Requirements of certain Commodity o
 
 For non technical users, click on colab.research.google.com then upload and run the UBI_PROJECT folder in google colabs. 
 
-![Alt text](./UBI_PROJECT/images/colab_research_google.png)
+![colab_research_google](https://user-images.githubusercontent.com/103196346/163506382-119e8597-dcc1-463c-a83a-10d202ec1441.png)
 
 ---
+
 
 ### Usage
 
