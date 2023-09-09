@@ -11,7 +11,7 @@ Tools for Analyzing the Intrinsic Value of Money & Inflation
 ### Introduction
 This project aims to achieve an Understanding of the Intrinsic Value of Money as an indicator for Evaluating inflation, and the Feasibility of Universal Basic Income (universal minimum wage standards).
 
-The second part of this project analyzes the Requirements of certain Commodity or Commodity-Backed Monetary Systems, specifically, the legal monetary framework of former Ottoman Empire Territories- which currently make up 57 nation-states. The objective of this analysis is to better understand how emerging blockchain technologies can be used to tap into this $30+ Trillion (annual) market.
+The second part of this project analyzes the Requirements of certain Commodity or Commodity-Backed Monetary Systems, specifically, the legal monetary framework of former Ottoman Empire Territories- which currently make up a majority of the 57 nation-block (OIC). The objective of this analysis is to better understand how emerging blockchain technologies can be used to tap into this $30+ Trillion (annual) market.
 
 
 ---
